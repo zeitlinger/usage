@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.5.0](https://github.com/jdx/usage/compare/v3.4.0..v3.5.0) - 2026-06-02
+
+### 🚀 Features
+
+- add sponsors command by [@jdx](https://github.com/jdx) in [#662](https://github.com/jdx/usage/pull/662)
+
+### 📚 Documentation
+
+- use KDLv2 raw multiline strings by [@salim-b](https://github.com/salim-b) in [#657](https://github.com/jdx/usage/pull/657)
+- add sponsor feed to docs by [@jdx](https://github.com/jdx) in [#608](https://github.com/jdx/usage/pull/608)
+- add sponsor footer by [@jdx](https://github.com/jdx) in [#656](https://github.com/jdx/usage/pull/656)
+
+### New Contributors
+
+- @salim-b made their first contribution in [#657](https://github.com/jdx/usage/pull/657)
+
 ## [3.4.0](https://github.com/jdx/usage/compare/v3.3.0..v3.4.0) - 2026-05-31
 
 ### 🚀 Features
@@ -9,6 +25,7 @@
 ### 🐛 Bug Fixes
 
 - **(ci)** preserve release push credentials by [@jdx](https://github.com/jdx) in [#650](https://github.com/jdx/usage/pull/650)
+- **(ci)** use trusted publishing for crates by [@jdx](https://github.com/jdx) in [#654](https://github.com/jdx/usage/pull/654)
 - **(nushell)** use caret for invoking cmd in completion script by [@silvanshade](https://github.com/silvanshade) in [#638](https://github.com/jdx/usage/pull/638)
 - **(parse)** keep inherited global flags when a subcommand re-declares them as non-global by [@JamBalaya56562](https://github.com/JamBalaya56562) in [#649](https://github.com/jdx/usage/pull/649)
 - **(zsh)** consistently single-quote choice values containing spaces by [@jdx](https://github.com/jdx) in [#635](https://github.com/jdx/usage/pull/635)
